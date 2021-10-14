@@ -1,6 +1,5 @@
-
 {
-  "name": "vanilla-node-rest-api",
+  "name": "nodejs-restapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
